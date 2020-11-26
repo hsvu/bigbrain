@@ -1,0 +1,9 @@
+.card-img {
+  height: 10vw;
+  width: 100%;
+  background-image: linear-gradient(to right, blue, purple);
+}
+
+.bg-correct {
+  background-color: #94bfa2 !important;
+}

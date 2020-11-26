@@ -1,0 +1,21 @@
+.logoutButton,
+.registerButton,
+.loginButton {
+  width: 15%;
+}
+
+@media screen and (max-width: 990px) {
+  .navbar-toggler {
+    width: fit-content;
+  }
+
+  .logoutButton,
+  .registerButton,
+  .loginButton {
+    width: 100%;
+  }
+
+  .nav-link {
+    text-align: center;
+  }
+}
