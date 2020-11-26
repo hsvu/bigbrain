@@ -1,3 +1,4 @@
+# BIG BRAIN
 This is a bootleg version of Kahoot! It was made using JavaScript and ReactJS.
 Common JS and ReactJS libraries such as bootstrap, fontawesome and react-router-dom was also used.
 
